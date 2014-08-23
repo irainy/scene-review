@@ -1,4 +1,4 @@
-为什么要研究场景的识别、加工过程？
+为什么要研究场景的识别、加工过程？这一加工过程有哪些特异之处【快】？
 ===
 
 ### 1. Conci, M. (2014). Global scene layout modulates contextual learning in change detection, 1–9. doi:10.3389/fpsyg.2014.00089/abstract
@@ -26,4 +26,12 @@
 
 ### 4. Yeh, H.-H., Liu, K.-H., & Chen, C.-S. (2014). Salient object detection via local saliency estimation and global homogeneity refinement. Pattern Recognition, 47(4), 1740–1750.
 
-**Identifying the visually attentive area in an image without a priori knowledge about the scene is the fundamental to our vision.**
+> Identifying the visually attentive area in an image without a priori knowledge about the scene is the fundamental to our vision.
+
+---
+
+### 5. Malcolm, G. L., Nuthmann, A., & Schyns, P. G. (2014). Beyond Gist Strategic and Incremental Information Accumulation for Scene Categorization. Psychological Science.
+
+> In order to interact with the world, people must quickly extract the semantic meaning of their environment to effectively guide their subsequent behaviors. Within around 100 ms of the onset of a scene, its “story,” or gist, can be gleaned.
+
+**结论：during scene processing, a diagnostically driven bidirectional interplay between top-down and bottom-up information facilitates relevant category processing. （基于诊断驱动的双向交互作用，共同促进相关类别加工的过程）**
