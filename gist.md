@@ -27,7 +27,7 @@ THE GIST OF A SCENE
 
 问题在于场景的主题信息是何时被获取到的？**when and where the gist of a scene is learned**
 
-scene gist can be extracted from low spatial frequency informa- tion alone (Schyns and Oliva, 1994; Oliva and Torralba, 2006)
+scene gist can be extracted from low spatial frequency information alone (Schyns and Oliva, 1994; Oliva and Torralba, 2006)
 
 > in most cases the term “gist” indicates the information extracted in early visual processing (20–100 ms) that can convey the meaning of a scene and is sufficient to categorize the scene. Whether object recognition is necessary before perceiving scene gist, or whether visual attention is needed for gist recognition are still open questions.
 
