@@ -1,5 +1,9 @@
-为什么要研究场景的识别、加工过程？这一加工过程有哪些特异之处【快】？
+为什么要研究场景的识别、加工过程？
 ===
+
+- 这一加工过程有哪些特异之处值得花时间精力去研究【快】？
+
+---
 
 ### 1. Conci, M. (2014). Global scene layout modulates contextual learning in change detection, 1–9. doi:10.3389/fpsyg.2014.00089/abstract
 
@@ -35,3 +39,13 @@
 > In order to interact with the world, people must quickly extract the semantic meaning of their environment to effectively guide their subsequent behaviors. Within around 100 ms of the onset of a scene, its “story,” or gist, can be gleaned.
 
 **结论：during scene processing, a diagnostically driven bidirectional interplay between top-down and bottom-up information facilitates relevant category processing. （基于诊断驱动的双向交互作用，共同促进相关类别加工的过程）**
+
+---
+
+### 6. Torralbo, A., Walther, D. B., Chai, B., Caddigan, E., Fei-Fei, L., & Beck, D. M. (2013). Good Exemplars of Natural Scene Categories Elicit Clearer Patterns than Bad Exemplars but Not Greater BOLD Activity. PloS One, 8(3), e58594. doi:10.1371/journal.pone.0058594.g009
+
+**关于“典型表象”的研究：**
+> These results are consistent with both low-level models of scene categorization and models that build categories around a prototype.
+
+---
+
