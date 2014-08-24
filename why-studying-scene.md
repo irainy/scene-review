@@ -49,3 +49,19 @@
 
 ---
 
+### `♥`7. Xiao, J., Hays, J., Russell, B. C., Patterson, G., Ehinger, K. A., Torralba, A., & Oliva, A. (2013). Basic level scene understanding: categories, attributes and structures. Frontiers in Psychology, 4. doi:10.3389/fpsyg.2013.00506/abstract
+
+> The ability to understand a 3D scene depicted in a static 2D image goes to the very heart of the computer vision problem.
+
+何为“understand a scene”，并没有统一的答案，而且与目标任务密切相关。
+
+**图灵测试：**
+> Turing test for scene understanding: Given an image depicting a static scene, a human judge will ask a human or a machine questions about the picture. If the judge cannot reliably tell the machine from the human, the machine is said to have passed the test.
+
+基于当前的研究程度，将场景理解人物描述为完成下列目标：
+
+- 预测场景类别；
+- 场景归因；
+- 3D enclosure of the space and all the objects in the images
+
+> We call this task basic level scene understanding, with analogy to basic level in cognitive categorization (Rosch, 1978)
