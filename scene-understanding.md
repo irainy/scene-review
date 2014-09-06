@@ -18,3 +18,5 @@ Deep Learning?
 ### Zelinsky, G. J. (2013). Understanding scene understanding. Frontiers in Psychology, 4. doi:10.3389/fpsyg.2013.00954/full
 
 > it is possible to extract the gist of a scene very quickly (Potter, 1975; Friedman, 1979);
+
+> But scene understanding doesn’t stop at gist, and there were other things happening in this scene.
