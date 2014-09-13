@@ -65,3 +65,15 @@
 - 3D enclosure of the space and all the objects in the images
 
 > We call this task basic level scene understanding, with analogy to basic level in cognitive categorization (Rosch, 1978)
+
+---
+
+### `♥`8. Lewicki, M. S., Olshausen, B. A., Surlykke, A., & Moss, C. F. (2013). Scene analysis in the natural environment. Frontiers in Psychology, 1, 0. doi:10.3389/fpsyg.2014.00199/abstract
+
+场景分析(scene analysis)的动物研究存在很多限制或缺点，1）实验环境（条件）过于简化；2）另一方面，工程与计算机领域的计算方法，虽然通常是针对真实场景进行研究，但是却较少关注于人类或动物的场景知觉过程；3）在神经科学领域，研究更多关注特定刺激所引起的行为或生理反应。
+
+>  Marr (1982): scene analysis is fundamen- tally an information processing task and encompasses a complex set of interrelated problems. 
+
+计算机视觉的研究关注于解决某一任务需要什么样的表征，最终找出哪些行得通，哪些不行。
+
+> Ambiguity in the raw sensory input can only be resolved using a priori knowl- edge about scene structure (Pizlo, 2001; Kersten and Yuille, 2003; Yuille and Kersten, 2006).
